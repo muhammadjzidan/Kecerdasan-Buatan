@@ -1,7 +1,6 @@
 # Quiz 3
 
 1. Download Python 3.10.0 apa arti angka dari versi tersebut? <br  />
-
 ![Python](https://user-images.githubusercontent.com/92990909/138659751-977a4357-95e4-46b9-9a14-79ba314a446e.jpg)
 
     - Angka 3 pada awalan memiliki arti bahwa projek aplikasi tersebut sudah mengalami perubahan keseluruhan yang berbeda dengan versi 1.0.0 dan 2.0.0 dengan syarat Tambahkan 
