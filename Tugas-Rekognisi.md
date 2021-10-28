@@ -14,6 +14,7 @@
 
 ### d. Celcius ke Fahrenheit
 
+
 # Daftar Source Code 
 ## 1. Menghitung keliling dan luas persegi panjang
 ![SC- PersegiPanjang](https://user-images.githubusercontent.com/92990909/139256742-abee082e-c7d3-4c2d-9eb6-2b864c3a0c02.png)
@@ -45,3 +46,6 @@
 
 ### Output
 ![Output -Celcius Fahrenheit](https://user-images.githubusercontent.com/92990909/139256890-50d7f1e3-6690-4c1b-9b1f-847fefadb2fd.png)
+
+
+Sekian dan Terimakasih.
