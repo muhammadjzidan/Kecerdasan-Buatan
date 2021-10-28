@@ -24,7 +24,5 @@
 
 ![1](https://user-images.githubusercontent.com/92990909/139203258-02486b12-b7de-4041-b092-6ef30fe6c0aa.jpg)
 <br/>
-![2](https://user-images.githubusercontent.com/92990909/139203263-3ee25566-3fe8-4118-ac7b-6cd5116a7801.jpg)
-<br/>
 
 Sekian dan Terimakasih.
