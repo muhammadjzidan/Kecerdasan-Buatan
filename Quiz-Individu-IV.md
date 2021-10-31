@@ -10,7 +10,8 @@
 # 2. Kubangan Kerbau mempunyai volume 40 m3 diisi dengan air, memakai pipa. Waktu yang diperlukan untuk mengisinya sampai penuh yaitu 4 jam. Berapa liter/detik debit air yang keluar dari pipa tersebut?
 ## Flowchart
 ### Konsep 1
-![Flow-Debit-Air(2)1 - Main](https://user-images.githubusercontent.com/92990909/139587363-7f083ca8-62e5-4004-ae2c-3e04cb45db46.png)
+![Flow-Debit-Air(2)1 - Main](https://user-images.githubusercontent.com/92990909/139587769-b6cf32ab-7c08-4780-b008-86dcf0a2b547.png)
+
 
 ### Konsep 2
 ![Flow-Debit-Air(2)2 - Main](https://user-images.githubusercontent.com/92990909/139587188-4ade6500-6819-4a54-8bd9-7c2dda90c743.png)
