@@ -9,9 +9,10 @@
 
 ## SouceCode
 ### Konsep 1
-
+![1 1](https://user-images.githubusercontent.com/92990909/139683459-35cbd0b0-f4af-43f3-876a-b35a24bb410c.png)
 
 ### Konsep 2
+![1 2](https://user-images.githubusercontent.com/92990909/139683473-be2d7c08-87d3-41f0-b419-6b899ab52ee3.png)
 
 # 2. Dalam sebuah peta memiliki skala 1:5.000.000, jarak antara Seteng dan Labuhan Badas adalah 20 cm. Berapakah jarak sesungguhnya antara Seteng dan Labuhan Badas?
 ## Flowchart
@@ -24,8 +25,10 @@
 
 ## SouceCode
 ### Konsep 1
+![2 1](https://user-images.githubusercontent.com/92990909/139683494-9077742e-2dc1-4673-9092-2902f132482b.png)
 
 ### Konsep 2
+![2 2](https://user-images.githubusercontent.com/92990909/139683514-3abafed3-bbe2-479e-8b1c-087f6e7e6a93.png)
 
 # 3. Misalnya jika jarak antara kecematan Seteng dengan Kecamatan Labuhan Badas pada peta dengan skala batang adalah 4 ruas. Dan untuk satu ruas pada peta tersebut dianggap mewakili 1 km, maka berapakah jarak antara kedua kecamatan sesungguhnya?
 ## Flowchart
@@ -37,5 +40,7 @@
 
 ## Source Code
 ### Konsep 1
+![3 1](https://user-images.githubusercontent.com/92990909/139683550-5fd8943f-f7b8-4aa6-a0ed-298160298ba9.png)
 
 ### Konsep 2
+![3 2](https://user-images.githubusercontent.com/92990909/139683571-c2b42a5e-6751-4338-8386-38494055d51a.png)
