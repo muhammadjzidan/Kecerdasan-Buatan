@@ -9,6 +9,9 @@
 ## SourceCode
 ![Persegi](https://user-images.githubusercontent.com/92990909/139833397-d231e3ab-17d8-48e7-a126-da97f461ff3b.png)
 
+## Output
+![Output Persegi](https://user-images.githubusercontent.com/92990909/139840154-22fd1b8f-ba03-4021-86fa-37ef94505389.png)
+
 # Persegi Panjang
 ## Flowchart
 ![Persegi-Panjang - Main](https://user-images.githubusercontent.com/92990909/139835193-28aaae31-fb8b-4826-ad16-571ce446d3a9.png)
@@ -18,6 +21,9 @@
 
 ## SourceCode
 ![Persegi-Panjang](https://user-images.githubusercontent.com/92990909/139835036-6fd6b824-3270-46cd-9502-2c3f6f32f5a7.png)
+
+## Output
+![Output Persegi-Panjang](https://user-images.githubusercontent.com/92990909/139840202-136c8342-e105-4126-95a4-fc2c8032ddc0.png)
 
 # Jajar-Genjang
 ## Flowchart
@@ -29,6 +35,9 @@
 ## SourceCode
 ![Jajar-Genjang](https://user-images.githubusercontent.com/92990909/139833600-11035338-2968-47c4-bfc5-5c46f61cce16.png)
 
+## Output
+![Output Jajar-Genjang](https://user-images.githubusercontent.com/92990909/139840228-74a60e30-181b-4814-a720-bb4f529ba899.png)
+
 # Segitiga
 ## Flowchart
 ![Segitiga - Main](https://user-images.githubusercontent.com/92990909/139834090-0a96f578-28c9-403d-b54a-b274cd8aa8f6.png)
@@ -38,6 +47,9 @@
 
 ## SourceCode
 ![Segitiga](https://user-images.githubusercontent.com/92990909/139834407-67696158-26a6-454d-90bf-9056ccc8427a.png)
+
+## Output
+![Output Segitiga](https://user-images.githubusercontent.com/92990909/139840265-5472383b-49e6-4647-8cc7-092864bcb715.png)
 
 # Belah Ketupat
 ## Flowchart
@@ -49,6 +61,9 @@
 ## SourceCode
 ![Belah-Ketupat](https://user-images.githubusercontent.com/92990909/139834544-df018cb6-a325-43c5-a4f2-627a3aea35b1.png)
 
+## Output
+![Output Belah-Ketupat](https://user-images.githubusercontent.com/92990909/139840289-c54a4283-5c3b-44b4-bb83-af334c512d54.png)
+
 # Lingkaran
 ## Flowchart
 ![Lingkaran - Main](https://user-images.githubusercontent.com/92990909/139835813-21a5a18a-cf75-4722-9a22-46c55f033988.png)
@@ -58,6 +73,9 @@
 
 ## SourceCode
 ![Lingkaran](https://user-images.githubusercontent.com/92990909/139835838-24b33931-2c55-436f-ba5b-9748e4abb1b2.png)
+
+## Output
+![Output Lingkaran](https://user-images.githubusercontent.com/92990909/139840344-99251b47-2fb6-4160-b446-f41d627e59de.png)
 
 # Layang-Layang
 ## Flowchart
@@ -69,6 +87,9 @@
 ## SourceCode
 ![Layang-Layang](https://user-images.githubusercontent.com/92990909/139836421-bd624043-8892-4f66-8d50-21a41012d493.png)
 
+## Output
+![Output Layang-Layang](https://user-images.githubusercontent.com/92990909/139840382-7e8c6370-458c-483a-ada4-62d66a28eab2.png)
+
 # Trapesium
 ## Flowchart
 ![Trapesium - Main](https://user-images.githubusercontent.com/92990909/139836640-9be94005-23b3-4af5-b570-b0bfd5ef9da9.png)
@@ -78,4 +99,7 @@
 
 ## SourceCode
 ![Trapesium](https://user-images.githubusercontent.com/92990909/139836670-3cf25740-a7f5-4760-90fb-97ca667716ab.png)
+
+## Output
+![Output Trapesium](https://user-images.githubusercontent.com/92990909/139840420-81b506fe-c1d4-4411-9575-6db2d527865d.png)
 
