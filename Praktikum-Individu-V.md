@@ -12,6 +12,7 @@
 ## Output
 ![Output Kubus](https://user-images.githubusercontent.com/92990909/140028679-e6222d23-6e5f-4a19-baa3-20ea448cb48f.jpg)
 
+
 # Balok
 ## Flowchart
 ![Balok - Main](https://user-images.githubusercontent.com/92990909/140026383-bf096399-a2bb-4e16-b15b-67cd90c3f167.png)
@@ -24,6 +25,7 @@
 
 ## Output
 ![Output Balok](https://user-images.githubusercontent.com/92990909/140028726-b1356973-eaba-44a0-aefe-b999eb158125.jpg)
+
 
 # Limas Segiempat
 ## Flowchart
@@ -38,24 +40,33 @@
 ## Output
 ![Output Limas-Segiempat](https://user-images.githubusercontent.com/92990909/140023292-b34b75d7-6d3b-4027-8761-8323812146ae.png)
 
+
 # Prisma Segitiga
 ## Flowchart
+![Prisma-Segitiga - Main](https://user-images.githubusercontent.com/92990909/140031056-f312e756-a17a-4bff-9b1e-5072845c1896.png)
 
 ## Output
+![Output Prisma-Segitiga](https://user-images.githubusercontent.com/92990909/140031075-144bd41a-7170-42aa-815f-eb23ed3d6460.jpg)
 
 ## SourceCode
+![Prisma-Segitiga](https://user-images.githubusercontent.com/92990909/140031101-fcac73fa-c80e-4a12-92c0-6d10fa48f7fa.png)
 
 ## Output
+![Output Prisma-Segitiga](https://user-images.githubusercontent.com/92990909/140031112-d0722ce5-2269-4f45-8d9f-e4b88ae3c0f5.jpg)
 
 
 # Limas Segitigaa
 ## Flowchart
+![Limas-Segitiga - Main](https://user-images.githubusercontent.com/92990909/140031193-cd13fde7-f9e2-4345-a9d1-a4c66caaf2b2.png)
 
 ## Output
+![Output Limas-Segitiga](https://user-images.githubusercontent.com/92990909/140031206-f3be5f5d-01c1-47ba-bb35-9f7221d47964.jpg)
 
 ## SourceCode
+![Limas-Segitiga](https://user-images.githubusercontent.com/92990909/140031138-d15098e9-e52d-4ee2-8282-95dbd71ee2a3.png)
 
 ## Output
+![Output Limas-Segitiga](https://user-images.githubusercontent.com/92990909/140031157-da8d18f6-6656-4e61-855f-0ae6116120d7.jpg)
 
 
 # Selinder ( Tabung )
@@ -71,6 +82,7 @@
 ## Output
 ![Output Tabung](https://user-images.githubusercontent.com/92990909/140028769-e99c9019-162a-4c4f-b4a9-ba20e23134e3.jpg)
 
+
 # Kerucut
 ## Flowchart
 ![Kubus - Main](https://user-images.githubusercontent.com/92990909/140026435-85611f4b-5222-4dbf-9c25-b083584b0e3f.png)
@@ -83,6 +95,7 @@
 
 ## Output
 ![Output Kerucut](https://user-images.githubusercontent.com/92990909/140028808-34b847bd-be82-4dd9-bba1-97bbe150bb7c.jpg)
+
 
 # Bola
 ## Flowchart
