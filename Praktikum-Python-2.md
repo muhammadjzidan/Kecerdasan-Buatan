@@ -16,7 +16,7 @@
 ![4](https://user-images.githubusercontent.com/92990909/141923131-dab35f6e-cd28-4f2a-a2da-2cfba467d079.png)
 
 # 2.5
-### Program menghitung gaji pokok dan menghitung bonus lembur pada setiap golongan
+### Program menghitung nilai akhir pada nilai mahsiswa
 ### SourceCode
 ![1 5 SorceCode](https://user-images.githubusercontent.com/92990909/141923174-a59f0d45-cd5a-4b67-9996-75fc67b6ea9f.png)
 
@@ -24,7 +24,7 @@
 ![1 5 Output](https://user-images.githubusercontent.com/92990909/141923168-bb718cbb-9fb2-427f-8f60-4102370705d3.png)
 
 # 2.6
-### Program gaji pada setiap golongan
+### Program menghitung gaji dan menentukan bonus lembur pada setiap golongan
 ### SourceCode
 ![2 6](https://user-images.githubusercontent.com/92990909/141969243-844c1a50-b8e2-40c0-b041-d228c622c71a.png)
 
