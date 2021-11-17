@@ -15,7 +15,7 @@
 ![5](https://user-images.githubusercontent.com/92990909/142207172-dc5424fa-3782-4ed1-9841-c8415a1ccf6c.png)
 
 # 3.6
-![6](https://user-images.githubusercontent.com/92990909/142213845-1009d79c-e509-493a-9e2e-a0b9ea49a8e4.png)
+![6](https://user-images.githubusercontent.com/92990909/142215209-ab65f9cb-057f-4ae7-86b5-e8d61b301ac6.png)
 
 # 3.7
 ![7](https://user-images.githubusercontent.com/92990909/142209035-741d9b6d-f40d-4262-885c-91aeacce9a8d.png)
