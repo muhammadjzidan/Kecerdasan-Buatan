@@ -21,15 +21,10 @@
 ![7](https://user-images.githubusercontent.com/92990909/142209035-741d9b6d-f40d-4262-885c-91aeacce9a8d.png)
 
 # 3.8
-### 3.8 (a)
-
 ### 3.8 (b)
 ![3 8(b)](https://user-images.githubusercontent.com/92990909/142214377-f0bc1a7d-bd0a-4d71-aed1-8483333d9b2b.png)
 
 ### 3.8 (c)
 ![3 8(c)](https://user-images.githubusercontent.com/92990909/142214385-90d99dfa-103d-4fb1-8050-80fb452a6887.png)
 
-### 3.8 (d)
-
-### 3.8 (e)
 
