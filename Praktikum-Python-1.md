@@ -1,4 +1,4 @@
-# Tugas Praktikum  Python 1
+# Praktikum  Python 1
 # 4.9 
 ### Program penginputan data studi mahasiswa
 ![4 9](https://user-images.githubusercontent.com/92990909/141749457-0162ebf0-e2d9-49c1-b915-23c1992a2190.png)
