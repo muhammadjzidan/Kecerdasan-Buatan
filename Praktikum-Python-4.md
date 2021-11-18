@@ -23,8 +23,6 @@
 ### Program mencari bilangan yang berkelipatan 5 dari banyaknya inputan yang kita masukkan
 ![4 7](https://user-images.githubusercontent.com/92990909/142427830-25283976-bc14-4d0a-acf5-a24a6fa5e5db.png)
 
-# 4.8
-
 # 4.9
 ### Program mencari banyak nya bilangan yang terdapat di dalam list 
 ![4 9](https://user-images.githubusercontent.com/92990909/142437418-7fdd3a28-c82c-433c-998b-98cae046d48b.png)
