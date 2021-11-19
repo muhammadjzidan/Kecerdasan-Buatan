@@ -20,6 +20,8 @@
 ![5 3](https://user-images.githubusercontent.com/92990909/142623720-280f7907-0924-455e-8ecc-cabe7c78133f.png)
 
 # 5.4
+### Program mencaari nilai terbesar dari sekolompok nilai yang disimpan dalam list
+![5 4](https://user-images.githubusercontent.com/92990909/142628986-9834cc6b-c056-4ac4-828a-5faaf4dca5e5.png)
 
 # 5.5
 
@@ -28,4 +30,7 @@
 ![5 6](https://user-images.githubusercontent.com/92990909/142625644-cdaae6c9-746e-4153-9caf-1f070dab5af8.png)
 
 # 5.7
+
+# 5.8
+
 
