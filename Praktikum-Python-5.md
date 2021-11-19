@@ -30,6 +30,7 @@
 ![5 6](https://user-images.githubusercontent.com/92990909/142625644-cdaae6c9-746e-4153-9caf-1f070dab5af8.png)
 
 # 5.7
+![5 7](https://user-images.githubusercontent.com/92990909/142636104-ebeda6cb-0260-4106-8312-d742f35f8047.png)
 
 # 5.8
 
