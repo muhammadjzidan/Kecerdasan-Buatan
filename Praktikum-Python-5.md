@@ -24,6 +24,8 @@
 ![5 4](https://user-images.githubusercontent.com/92990909/142628986-9834cc6b-c056-4ac4-828a-5faaf4dca5e5.png)
 
 # 5.5
+### Program mengelompokkan bilangan genap
+![5 5](https://user-images.githubusercontent.com/92990909/142646184-52fb6a29-e890-4f35-9115-164bf4acd7d8.png)
 
 # 5.6
 ### Program mencari nilai faktorial dengan menggunakan fungsi dan nama parameternya adalah faktorial
@@ -32,6 +34,5 @@
 # 5.7
 ![5 7](https://user-images.githubusercontent.com/92990909/142636104-ebeda6cb-0260-4106-8312-d742f35f8047.png)
 
-# 5.8
 
 
