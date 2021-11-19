@@ -24,6 +24,8 @@
 # 5.5
 
 # 5.6
+### Program mencari nilai faktorial dengan menggunakan fungsi dan nama parameternya adalah faktorial
+![5 6](https://user-images.githubusercontent.com/92990909/142625644-cdaae6c9-746e-4153-9caf-1f070dab5af8.png)
 
 # 5.7
 
