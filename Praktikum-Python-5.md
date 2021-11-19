@@ -34,5 +34,10 @@
 # 5.7
 ![5 7](https://user-images.githubusercontent.com/92990909/142636104-ebeda6cb-0260-4106-8312-d742f35f8047.png)
 
+# 5.8
+### Program akar iamjiner
+![5 8](https://user-images.githubusercontent.com/92990909/142651826-b665d8bb-223a-4203-8443-0520e6243657.png)
+
+
 
 
